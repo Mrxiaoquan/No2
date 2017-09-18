@@ -1,300 +1,146 @@
 # Auto detect text files and perform LF normalization
 * text=auto
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <link rel="stylesheet" href="/bootstrap/main/css/bootstrap/.min.css">
-  <link rel="stylesheet" href="/bootstrap/main/main.css">
-  <title>Document</title>
-</head>
-<body>
-<div class="navbar navbar-default">
-  <div class="container">
-<div class="navbar-header">
-  <a href="file:///E:/bootstrap/main/news.html" class="navbar-brand"></a>
-</div>
-<label id="toggle-label" class="visible-xs-inline-block" for="toggle-checbox">MENU</label for="">
-<input class="hidden" id="toggle-checbox"type="checkbox" >
-<div class="hidden-xs">
-  <ul class="nav navbar-nav">
-  <li><a href="#">国际</a></li>
-  <li><a href="#">国内</a></li>
-  <li><a href="#">娱乐</a></li>
-  <li><a href="#">财经</a></li>
-  <li><a href="#">社会</a></li>
-</ul>
-<ul class="nav navbar-nav navbar-right">
-    <li><a href="login.html">登录</a></li>
-    <li><a href="signup.html">注册</a></li>
-</ul>
-</div>
-</div>
-</div>
-<div class="container ">
-  <div class="row">
-  <div class="col-sm-2">
-    <div class="hidden-xs list-group side-bar">
-      <a href="#" class="list-group-item active">全部</a>
-      <a href="#" class="list-group-item">电影</a>
-      <a href="#" class="list-group-item">电视剧</a>
-      <a href="#" class="list-group-item">明星</a>
-      <a href="#" class="list-group-item">八卦</a>
-      <a href="#" class="list-group-item">音乐</a>
-      <a href="#" class="list-group-item">演员</a>
-      <a href="#" class="list-group-item">歌手</a>
-    </div>
-  </div>
-  <div class="col-sm-7">
-    <div class="mew-list">
-      <div class="new-list-item clearfix">
-        <div class="col-xs-5">
-        <img src="img/01.JPEG">
-      </div>
-  <div class="col-xs-7">
-  <a href="file:///E:/bootstrap/main/news.html"class="title">
-   Everyone has their own dreams Everyone has their own dreams
-   Everyone has their own dreams
-   Everyone has their own dreams
-  </a>
-  <div class="info">
-    <span class="avatar"><img src="img/5.gif" ></span>
-    <span>李晓丹</span>.
-    <span>101K评论</span>.
-    <span>10分钟前</span>
-  </div>
-  </div>
-      </div>
-      <div class="new-list-item clearfix">
-        <div class="col-xs-5">
-        <img src="img/02.jpg">
-      </div>
-  <div class="col-xs-7">
-  <a href="file:///E:/bootstrap/main/news.html"class="title">
-   Everyone has their own dreams Everyone has their own dreams
-   Everyone has their own dreams
-   Everyone has their own dreams
-  </a>
-  <div class="info">
-    <span class="avatar"><img src="img/5.gif" ></span>
-    <span>李晓丹</span>.
-    <span>101K评论</span>.
-    <span>10分钟前</span>
-  </div>
-  </div>
-      </div>
-      <div class="new-list-item clearfix">
-        <div class="col-xs-5">
-        <img src="img/5.gif">
-      </div>
-  <div class="col-xs-7">
-  <a href="file:///E:/bootstrap/main/news.html"class="title">
-   Everyone has their own dreams Everyone has their own dreams
-   Everyone has their own dreams
-   Everyone has their own dreams
-  </a>
-  <div class="info">
-    <span class="avatar"><img src="img/5.gif" ></span>
-    <span>李晓丹</span>.
-    <span>101K评论</span>.
-    <span>10分钟前</span>
-  </div>
-  </div>
-      </div>
-      <div class="new-list-item clearfix">
-        <div class="col-xs-5">
-        <img src="img/01.JPEG">
-      </div>
-  <div class="col-xs-7">
-  <a href="file:///E:/bootstrap/main/news.html"class="title">
-   Everyone has their own dreams Everyone has their own dreams
-   Everyone has their own dreams
-   Everyone has their own dreams
-  </a>
-  <div class="info">
-    <span class="avatar"><img src="img/5.gif" ></span>
-    <span>李晓丹</span>.
-    <span>101K评论</span>.
-    <span>10分钟前</span>
-  </div>
-  </div>
-      </div>
-      <div class="new-list-item clearfix">
-        <div class="col-xs-5">
-        <img src="img/01.JPEG">
-      </div>
-  <div class="col-xs-7">
-  <a href="file:///E:/bootstrap/main/news.html"class="title">
-   Everyone has their own dreams Everyone has their own dreams
-   Everyone has their own dreams
-   Everyone has their own dreams
-  </a>
-  <div class="info">
-    <span class="avatar"><img src="img/5.gif" ></span>
-    <span>李晓丹</span>.
-    <span>101K评论</span>.
-    <span>10分钟前</span>
-  </div>
-  </div>
-      </div>
-      <div class="new-list-item clearfix">
-        <div class="col-xs-5">
-        <img src="img/01.JPEG">
-      </div>
-  <div class="col-xs-7">
-  <a href="file:///E:/bootstrap/main/news.html"class="title">
-   Everyone has their own dreams Everyone has their own dreams
-   Everyone has their own dreams
-   Everyone has their own dreams
-  </a>
-  <div class="info">
-    <span class="avatar"><img src="img/5.gif" ></span>
-    <span>李晓丹</span>.
-    <span>101K评论</span>.
-    <span>10分钟前</span>
-  </div>
-  </div>
-      </div>
-      <div class="new-list-item clearfix">
-        <div class="col-xs-5">
-        <img src="img/01.JPEG">
-      </div>
-  <div class="col-xs-7">
-  <a href="file:///E:/bootstrap/main/news.html"class="title">
-   Everyone has their own dreams Everyone has their own dreams
-   Everyone has their own dreams
-   Everyone has their own dreams
-  </a>
-  <div class="info">
-    <span class="avatar"><img src="img/5.gif" ></span>
-    <span>李晓丹</span>.
-    <span>101K评论</span>.
-    <span>10分钟前</span>
-  </div>
-  </div>
-      </div>
-      <div class="new-list-item clearfix">
-        <div class="col-xs-5">
-        <img src="img/01.JPEG">
-      </div>
-  <div class="col-xs-7">
-  <a href="file:///E:/bootstrap/main/news.html"class="title">
-   Everyone has their own dreams Everyone has their own dreams
-   Everyone has their own dreams
-   Everyone has their own dreams
-  </a>
-  <div class="info">
-    <span class="avatar"><img src="img/5.gif" ></span>
-    <span>李晓丹</span>.
-    <span>101K评论</span>.
-    <span>10分钟前</span>
-  </div>
-  </div>
-      </div>
-    </div>
-   </div>
-  <div class="col-sm-3">
-    <div class="search-bar">
-      <input type="search" class="form-control">
-    </div>
-    <div class="side-bar-card flag clearfix">
-      <div class="col-xs-5">
-        <img src="img/3.gif">
-      </div>
-      <div class="col-xs-7">
-      <div class="text-lg">
-        有害信息举报专区
-      </div>
-      <div>
-        举报电话123456
-      </div>
-      </div>
-    </div>
-    <div class="side-bar-card">
-      <div class="card-title">24小时热文</div>
-      <div class="card-body">
-         <div class="list">
-        <div class="item">
-          <div class="title">
-            When you are old and grey and full of slee  When you are old and grey and full of slee
-              <div class="desc">15k阅读.1k评论</div>
-          </div>
-        </div>
-      </div>
-    </div>
-    </div>
-    <div class="side-bar-card">
-      <div class="card-title">24小时热文</div>
-      <div class="card-body">
-         <div class="list">
-        <div class="item">
-          <div class="title">
-            When you are old and grey and full of slee  When you are old and grey and full of slee
-              <div class="desc">15k阅读.1k评论</div>
-          </div>
-        </div>
-      </div>
-    </div>
-    </div>
-    <div class="side-bar-card">
-      <div class="card-title">24小时热文</div>
-      <div class="card-body">
-         <div class="list">
-        <div class="item">
-          <div class="title">
-            When you are old and grey and full of slee  When you are old and grey and full of slee
-              <div class="desc">15k阅读.1k评论</div>
-          </div>
-        </div>
-      </div>
-    </div>
-    </div>
-    <div class="side-bar-card">
-      <div class="card-title">24小时热文</div>
-      <div class="card-body">
-         <div class="list">
-        <div class="item">
-          <div class="title">
-            When you are old and grey and full of slee  When you are old and grey and full of slee
-              <div class="desc">15k阅读.1k评论</div>
-          </div>
-        </div>
-      </div>
-    </div>
-    </div>
-    <div class="side-bar-card">
-      <div class="card-title">24小时热文</div>
-      <div class="card-body">
-         <div class="list">
-        <div class="item">
-          <div class="title">
-            When you are old and grey and full of slee  When you are old and grey and full of slee
-              <div class="desc">15k阅读.1k评论</div>
-          </div>
-        </div>
-      </div>
-    </div>
-    </div>
-    <div class="side-bar-card">
-      <div class="card-title">24小时热文</div>
-      <div class="card-body">
-         <div class="list">
-        <div class="item">
-          <div class="title">
-            When you are old and grey and full of slee  When you are old and grey and full of slee
-              <div class="desc">15k阅读.1k评论</div>
-          </div>
-        </div>
-      </div>
-    </div>
-    </div>
-  </div>
-  </div>
-</div>
-<div class="footer">
-  @When you are old and grey and full of slee  When you are old and grey and full of slee
-</div
-</body>
-</html>
+a：hover {
+  文字装饰：无;
+}
+img {
+  显示：块;
+  宽度：50％;
+  身高：50％;
+}
+img，.side-bar .list-group-item，
+。侧杆卡{
+  border-radius：3px;
+}
+.navbar品牌{
+  background-image：url（../ img / 5.gif）;
+  宽度：50px;
+  背景大小：80％;
+  背景重复：不重复;
+  背景位置：中心;
+}
+.side-bar .list-group-item {
+  border：0;
+}
+.side-bar .list-group-item .active {
+  背景颜色：＃000;
+}
+.new-list-item .title：hover {
+  颜色：＃dd4916;
+}
+.new-list-item {
+padding-top：15px;
+padding-bottom：15px;
+  border-bottom：1px solid #eee;
+}
+.new-list-item：first-child {
+padding-top：0;
+}
+
+.new-list-item .title {
+  颜色：＃444;
+  显示：块;
+  font-size：18px;
+  font-weight：bold;
+  margin-bottom：10px;
+  线高：1.5;
+}
+.new-list-item .info {
+  颜色：＃888;
+}
+.avatar {
+  显示：inline-block;
+}
+.avatar img {
+  显示：inline-block;
+  width：16px;
+  height：16px;
+  margin-right：5px;
+}
+.side杆卡{
+  背景：rgba（0,0,0,0.1）;
+  margin-top：15px;
+  填充：10px 0;
+}
+.side-bar-card .flag {
+  padding-top：20px;
+  填充底：20像素;
+}
+.side-bar-card .text-lg {
+  font-size：150％;
+}
+卡牌，卡片标题，
+.card-body .list .item {
+padding：10px 15px;
+}
+。卡片卡。卡片标题{
+  font-size：18px;
+  font-weight：bold;
+  padding-top：0;
+  padding-bottom：0;
+}
+.card-body .list .item：hover {
+  背景：rgba（0,0,0,0.2）;
+}
+.card-body .list .item {
+  填充：10px的;
+}
+.card-body .list .item.title.desc {
+  颜色：＃999;
+}
+。新闻标题{
+线高：1.3;
+}
+。新闻状态{
+  颜色：＃999;
+}
+.news-status .label {
+  不透明度：0.8;
+}
+新闻内容{
+  margin-top：20px;
+  font-size：15px;
+  线高：1.5;
+
+}
+。没有补-H {
+  padding-left：0;
+  padding-right：0;
+
+}
+.footer {
+  margin-top：20px;
+  padding：50px 0;
+  text-align：center;
+  颜色：＃999;
+}
+容器小{
+  max-width：500px;
+}
+.btn原色{
+  背景：＃dd4916;
+  border-color：＃dd4916;
+}
+.btn-primary：hover {
+  背景：＃dd4916;
+  border-color：＃dd4916;
+}
+.repts .form-control {
+    border：0px;
+}
+＃拨动checbox：检查〜DIV {
+  显示：块！重要;
+}
+＃toggle-label {
+  显示：内联块;
+  职位：绝对
+  右：15px;
+  顶部：13px;
+  font-size：16px;
+  font-weight：bold;
+  颜色：＃666;
+  显示：无;
+}
+＃切换标签：悬停{
+  颜色：＃333;
+}
