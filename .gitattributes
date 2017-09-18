@@ -1,2 +1,300 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="stylesheet" href="/bootstrap/main/css/bootstrap/.min.css">
+  <link rel="stylesheet" href="/bootstrap/main/main.css">
+  <title>Document</title>
+</head>
+<body>
+<div class="navbar navbar-default">
+  <div class="container">
+<div class="navbar-header">
+  <a href="file:///E:/bootstrap/main/news.html" class="navbar-brand"></a>
+</div>
+<label id="toggle-label" class="visible-xs-inline-block" for="toggle-checbox">MENU</label for="">
+<input class="hidden" id="toggle-checbox"type="checkbox" >
+<div class="hidden-xs">
+  <ul class="nav navbar-nav">
+  <li><a href="#">国际</a></li>
+  <li><a href="#">国内</a></li>
+  <li><a href="#">娱乐</a></li>
+  <li><a href="#">财经</a></li>
+  <li><a href="#">社会</a></li>
+</ul>
+<ul class="nav navbar-nav navbar-right">
+    <li><a href="login.html">登录</a></li>
+    <li><a href="signup.html">注册</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="container ">
+  <div class="row">
+  <div class="col-sm-2">
+    <div class="hidden-xs list-group side-bar">
+      <a href="#" class="list-group-item active">全部</a>
+      <a href="#" class="list-group-item">电影</a>
+      <a href="#" class="list-group-item">电视剧</a>
+      <a href="#" class="list-group-item">明星</a>
+      <a href="#" class="list-group-item">八卦</a>
+      <a href="#" class="list-group-item">音乐</a>
+      <a href="#" class="list-group-item">演员</a>
+      <a href="#" class="list-group-item">歌手</a>
+    </div>
+  </div>
+  <div class="col-sm-7">
+    <div class="mew-list">
+      <div class="new-list-item clearfix">
+        <div class="col-xs-5">
+        <img src="img/01.JPEG">
+      </div>
+  <div class="col-xs-7">
+  <a href="file:///E:/bootstrap/main/news.html"class="title">
+   Everyone has their own dreams Everyone has their own dreams
+   Everyone has their own dreams
+   Everyone has their own dreams
+  </a>
+  <div class="info">
+    <span class="avatar"><img src="img/5.gif" ></span>
+    <span>李晓丹</span>.
+    <span>101K评论</span>.
+    <span>10分钟前</span>
+  </div>
+  </div>
+      </div>
+      <div class="new-list-item clearfix">
+        <div class="col-xs-5">
+        <img src="img/02.jpg">
+      </div>
+  <div class="col-xs-7">
+  <a href="file:///E:/bootstrap/main/news.html"class="title">
+   Everyone has their own dreams Everyone has their own dreams
+   Everyone has their own dreams
+   Everyone has their own dreams
+  </a>
+  <div class="info">
+    <span class="avatar"><img src="img/5.gif" ></span>
+    <span>李晓丹</span>.
+    <span>101K评论</span>.
+    <span>10分钟前</span>
+  </div>
+  </div>
+      </div>
+      <div class="new-list-item clearfix">
+        <div class="col-xs-5">
+        <img src="img/5.gif">
+      </div>
+  <div class="col-xs-7">
+  <a href="file:///E:/bootstrap/main/news.html"class="title">
+   Everyone has their own dreams Everyone has their own dreams
+   Everyone has their own dreams
+   Everyone has their own dreams
+  </a>
+  <div class="info">
+    <span class="avatar"><img src="img/5.gif" ></span>
+    <span>李晓丹</span>.
+    <span>101K评论</span>.
+    <span>10分钟前</span>
+  </div>
+  </div>
+      </div>
+      <div class="new-list-item clearfix">
+        <div class="col-xs-5">
+        <img src="img/01.JPEG">
+      </div>
+  <div class="col-xs-7">
+  <a href="file:///E:/bootstrap/main/news.html"class="title">
+   Everyone has their own dreams Everyone has their own dreams
+   Everyone has their own dreams
+   Everyone has their own dreams
+  </a>
+  <div class="info">
+    <span class="avatar"><img src="img/5.gif" ></span>
+    <span>李晓丹</span>.
+    <span>101K评论</span>.
+    <span>10分钟前</span>
+  </div>
+  </div>
+      </div>
+      <div class="new-list-item clearfix">
+        <div class="col-xs-5">
+        <img src="img/01.JPEG">
+      </div>
+  <div class="col-xs-7">
+  <a href="file:///E:/bootstrap/main/news.html"class="title">
+   Everyone has their own dreams Everyone has their own dreams
+   Everyone has their own dreams
+   Everyone has their own dreams
+  </a>
+  <div class="info">
+    <span class="avatar"><img src="img/5.gif" ></span>
+    <span>李晓丹</span>.
+    <span>101K评论</span>.
+    <span>10分钟前</span>
+  </div>
+  </div>
+      </div>
+      <div class="new-list-item clearfix">
+        <div class="col-xs-5">
+        <img src="img/01.JPEG">
+      </div>
+  <div class="col-xs-7">
+  <a href="file:///E:/bootstrap/main/news.html"class="title">
+   Everyone has their own dreams Everyone has their own dreams
+   Everyone has their own dreams
+   Everyone has their own dreams
+  </a>
+  <div class="info">
+    <span class="avatar"><img src="img/5.gif" ></span>
+    <span>李晓丹</span>.
+    <span>101K评论</span>.
+    <span>10分钟前</span>
+  </div>
+  </div>
+      </div>
+      <div class="new-list-item clearfix">
+        <div class="col-xs-5">
+        <img src="img/01.JPEG">
+      </div>
+  <div class="col-xs-7">
+  <a href="file:///E:/bootstrap/main/news.html"class="title">
+   Everyone has their own dreams Everyone has their own dreams
+   Everyone has their own dreams
+   Everyone has their own dreams
+  </a>
+  <div class="info">
+    <span class="avatar"><img src="img/5.gif" ></span>
+    <span>李晓丹</span>.
+    <span>101K评论</span>.
+    <span>10分钟前</span>
+  </div>
+  </div>
+      </div>
+      <div class="new-list-item clearfix">
+        <div class="col-xs-5">
+        <img src="img/01.JPEG">
+      </div>
+  <div class="col-xs-7">
+  <a href="file:///E:/bootstrap/main/news.html"class="title">
+   Everyone has their own dreams Everyone has their own dreams
+   Everyone has their own dreams
+   Everyone has their own dreams
+  </a>
+  <div class="info">
+    <span class="avatar"><img src="img/5.gif" ></span>
+    <span>李晓丹</span>.
+    <span>101K评论</span>.
+    <span>10分钟前</span>
+  </div>
+  </div>
+      </div>
+    </div>
+   </div>
+  <div class="col-sm-3">
+    <div class="search-bar">
+      <input type="search" class="form-control">
+    </div>
+    <div class="side-bar-card flag clearfix">
+      <div class="col-xs-5">
+        <img src="img/3.gif">
+      </div>
+      <div class="col-xs-7">
+      <div class="text-lg">
+        有害信息举报专区
+      </div>
+      <div>
+        举报电话123456
+      </div>
+      </div>
+    </div>
+    <div class="side-bar-card">
+      <div class="card-title">24小时热文</div>
+      <div class="card-body">
+         <div class="list">
+        <div class="item">
+          <div class="title">
+            When you are old and grey and full of slee  When you are old and grey and full of slee
+              <div class="desc">15k阅读.1k评论</div>
+          </div>
+        </div>
+      </div>
+    </div>
+    </div>
+    <div class="side-bar-card">
+      <div class="card-title">24小时热文</div>
+      <div class="card-body">
+         <div class="list">
+        <div class="item">
+          <div class="title">
+            When you are old and grey and full of slee  When you are old and grey and full of slee
+              <div class="desc">15k阅读.1k评论</div>
+          </div>
+        </div>
+      </div>
+    </div>
+    </div>
+    <div class="side-bar-card">
+      <div class="card-title">24小时热文</div>
+      <div class="card-body">
+         <div class="list">
+        <div class="item">
+          <div class="title">
+            When you are old and grey and full of slee  When you are old and grey and full of slee
+              <div class="desc">15k阅读.1k评论</div>
+          </div>
+        </div>
+      </div>
+    </div>
+    </div>
+    <div class="side-bar-card">
+      <div class="card-title">24小时热文</div>
+      <div class="card-body">
+         <div class="list">
+        <div class="item">
+          <div class="title">
+            When you are old and grey and full of slee  When you are old and grey and full of slee
+              <div class="desc">15k阅读.1k评论</div>
+          </div>
+        </div>
+      </div>
+    </div>
+    </div>
+    <div class="side-bar-card">
+      <div class="card-title">24小时热文</div>
+      <div class="card-body">
+         <div class="list">
+        <div class="item">
+          <div class="title">
+            When you are old and grey and full of slee  When you are old and grey and full of slee
+              <div class="desc">15k阅读.1k评论</div>
+          </div>
+        </div>
+      </div>
+    </div>
+    </div>
+    <div class="side-bar-card">
+      <div class="card-title">24小时热文</div>
+      <div class="card-body">
+         <div class="list">
+        <div class="item">
+          <div class="title">
+            When you are old and grey and full of slee  When you are old and grey and full of slee
+              <div class="desc">15k阅读.1k评论</div>
+          </div>
+        </div>
+      </div>
+    </div>
+    </div>
+  </div>
+  </div>
+</div>
+<div class="footer">
+  @When you are old and grey and full of slee  When you are old and grey and full of slee
+</div
+</body>
+</html>
