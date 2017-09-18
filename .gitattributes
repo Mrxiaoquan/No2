@@ -15,7 +15,7 @@
     <a href="file:///E:/bootstrap/main/news.html" class="navbar-brand"></a>
   </div>
   <label id="toggle-label" class="visible-xs-inline-block" for="toggle-checbox">MENU</label for="">
-  <input class="hidden"  id="toggle-checbox"type="checkbox" >
+  <input class="hidden" id="toggle-checbox"type="checkbox" >
   <div class="hidden-xs">
     <ul class="nav navbar-nav">
     <li><a href="#">国际</a></li>
@@ -31,32 +31,180 @@
   </div>
   </div>
   </div>
-<div class="container container-small">
-  <h1>登录
-    <small>没有账号？<a href="login.html">注册</a></small>
-  </h1>
-<form>
-  <div class="form-group">
-<label for="">用户名/手机/邮箱</label>
-<input type="text" class="form-control">
+<div class="container">
+  <div class="col-md-8">
+  <h1 class="news-title">spring morningno aware of the spring moring,I hear birds singing everywhere,how many</h1>
+  <div class="news-status">25k阅读|30分钟前发布<div class="label label-default">教育</div>
+                                              <div class="label label-default">情感</div>
+<blockquote >
+    spring morningno aware of the spring moring,I hear birds singing everywhere,how many
+</blockquote>
+  <div class="news-content">
+  spring morningno aware of the spring moring,I hear birds singing everywhere,how many
+  <img src="/img/5.gif" alt="">
+  spring morningno aware of the spring moring,I hear birds singing everywhere,how many
+  spring morningno aware of the spring moring,I hear birds singing everywhere,how many
+  spring morningno aware of the spring moring,I hear birds singing everywhere,how many
+  spring morningno aware of the spring moring,I hear birds singing everywhere,how many
+  spring morningno aware of the spring moring,I hear birds singing everywhere,how many
+  spring morningno aware of the spring moring,I hear birds singing everywhere,how many
+  spring morningno aware of the spring moring,I hear birds singing everywhere,how many
+  spring morningno aware of the spring moring,I hear birds singing everywhere,how many
+  spring morningno aware of the spring moring,I hear birds singing everywhere,how many
+  spring morningno aware of the spring moring,I hear birds singing everywhere,how many
+</div>
+</div>
+</div>
+  <div class="col-md-4">
+    <div class="side-bar-card">
+    <div class="card-title">相关推荐</div>
+    <div class="card-body">
+      <div class="list">
+        <div class="item clearfix">
+          <div class="col-xs-5 no-padding-h">
+            <img src="/img/5.gif" >
+          </div>
+          <div class="col-xs-7">
+            <div class="title">I hear birds singing everywhere,how man</div>
+            <div class="desc">
+              阅读25k | 1k评论
+            </div>
+          </div>
+        </div>
+        <div class="item clearfix">
+          <div class="col-xs-5 no-padding-h">
+            <img src="/img/5.gif" >
+          </div>
+          <div class="col-xs-7">
+            <div class="title">I hear birds singing everywhere,how man</div>
+            <div class="desc">
+              阅读25k | 1k评论
+            </div>
+          </div>
+        </div>
+        <div class="item clearfix">
+          <div class="col-xs-5 no-padding-h">
+            <img src="/img/5.gif" >
+          </div>
+          <div class="col-xs-7">
+            <div class="title">I hear birds singing everywhere,how man</div>
+            <div class="desc">
+              阅读25k | 1k评论
+            </div>
+          </div>
+        </div>
+        <div class="item clearfix">
+          <div class="col-xs-5 no-padding-h">
+            <img src="/img/5.gif" >
+          </div>
+          <div class="col-xs-7">
+            <div class="title">I hear birds singing everywhere,how man</div>
+            <div class="desc">
+              阅读25k | 1k评论
+            </div>
+          </div>
+        </div>
+        <div class="item clearfix">
+          <div class="col-xs-5 no-padding-h">
+            <img src="/img/5.gif" >
+          </div>
+          <div class="col-xs-7">
+            <div class="title">I hear birds singing everywhere,how man</div>
+            <div class="desc">
+              阅读25k | 1k评论
+            </div>
+          </div>
+        </div>
+        <div class="item clearfix">
+          <div class="col-xs-5 no-padding-h">
+            <img src="/img/5.gif" >
+          </div>
+          <div class="col-xs-7">
+            <div class="title">I hear birds singing everywhere,how man</div>
+            <div class="desc">
+              阅读25k | 1k评论
+            </div>
+          </div>
+        </div>
+        <div class="item clearfix">
+          <div class="col-xs-5 no-padding-h">
+            <img src="/img/5.gif" >
+          </div>
+          <div class="col-xs-7">
+            <div class="title">I hear birds singing everywhere,how man</div>
+            <div class="desc">
+              阅读25k | 1k评论
+            </div>
+          </div>
+        </div>
+        <div class="item clearfix">
+          <div class="col-xs-5 no-padding-h">
+            <img src="/img/5.gif" >
+          </div>
+          <div class="col-xs-7">
+            <div class="title">I hear birds singing everywhere,how man</div>
+            <div class="desc">
+              阅读25k | 1k评论
+            </div>
+          </div>
+        </div>
+        <div class="item clearfix">
+          <div class="col-xs-5 no-padding-h">
+            <img src="/img/5.gif" >
+          </div>
+          <div class="col-xs-7">
+            <div class="title">I hear birds singing everywhere,how man</div>
+            <div class="desc">
+              阅读25k | 1k评论
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    </div>
+    <div class="side-bar-card">
+      <div class="card-title">24小时热文</div>
+      <div class="card-body">
+         <div class="list">
+        <div class="item">
+          <div class="title">
+            When you are old and grey and full of slee  When you are old and grey and full of slee
+              <div class="desc">15k阅读.1k评论</div>
+          </div>
+        </div>
+      </div>
+    </div>
+    </div>
+    <div class="side-bar-card">
+      <div class="card-title">24小时热文</div>
+      <div class="card-body">
+         <div class="list">
+        <div class="item">
+          <div class="title">
+            When you are old and grey and full of slee  When you are old and grey and full of slee
+              <div class="desc">15k阅读.1k评论</div>
+          </div>
+        </div>
+      </div>
+    </div>
+    </div>
+    <div class="side-bar-card">
+      <div class="card-title">24小时热文</div>
+      <div class="card-body">
+         <div class="list">
+        <div class="item">
+          <div class="title">
+            When you are old and grey and full of slee  When you are old and grey and full of slee
+              <div class="desc">15k阅读.1k评论</div>
+          </div>
+        </div>
+      </div>
+    </div>
+    </div>
   </div>
-  <div class="form-group">
-<label for="">密码</label>
-<input type="password" class="form-control">
-  </div>
-  <div class="form-group">
-    注册即代表您同意此条款<a href="#">用户协议</a>
-    <a href="login.html">忘记密码</a>
-  </div>
-  <div class="repts">
-  <div class="form-control ">
-<botton  class="btn  btn-primary btn-block" type="submit">登录</botton>
-  </div>
-  </div>
-</form>
 </div>
 <div class="footer">
   @When you are old and grey and full of slee  When you are old and grey and full of slee
-</div
+</div>
 </body>
 </html>
